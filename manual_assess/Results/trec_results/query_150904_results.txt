@@ -1,0 +1,20 @@
+Query ID: 150904
+Precision@5:            1.0000
+Recall@5:               0.0625
+F1@5:                   0.1176
+Precision@10:           0.8000
+Recall@10:              0.1000
+F1@10:                  0.1778
+Precision@20:           0.7000
+Recall@20:              0.1750
+F1@20:                  0.2800
+Precision@50:           0.4800
+Recall@50:              0.3000
+F1@50:                  0.3692
+Precision@100:          0.3900
+Recall@100:             0.4875
+F1@100:                 0.4333
+
+Average Precision:          0.3730
+R-Precision:                0.4875
+nDCG:                       0.6213

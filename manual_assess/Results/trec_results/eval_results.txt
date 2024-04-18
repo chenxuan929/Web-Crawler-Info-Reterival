@@ -1,0 +1,102 @@
+Query ID: 150901
+Precision@5:            1.0000
+Recall@5:               0.0325
+F1@5:                   0.0629
+Precision@10:           1.0000
+Recall@10:              0.0649
+F1@10:                  0.1220
+Precision@20:           0.9500
+Recall@20:              0.1234
+F1@20:                  0.2184
+Precision@50:           0.6600
+Recall@50:              0.2143
+F1@50:                  0.3235
+Precision@100:          0.6200
+Recall@100:             0.4026
+F1@100:                 0.4882
+
+Average Precision:          0.6341
+R-Precision:                0.6558
+nDCG:                       0.8255
+----------------------------------------
+Query ID: 150902
+Precision@5:            1.0000
+Recall@5:               0.0342
+F1@5:                   0.0662
+Precision@10:           1.0000
+Recall@10:              0.0685
+F1@10:                  0.1282
+Precision@20:           0.9500
+Recall@20:              0.1301
+F1@20:                  0.2289
+Precision@50:           0.6800
+Recall@50:              0.2329
+F1@50:                  0.3469
+Precision@100:          0.5800
+Recall@100:             0.3973
+F1@100:                 0.4715
+
+Average Precision:          0.4430
+R-Precision:                0.5137
+nDCG:                       0.7728
+----------------------------------------
+Query ID: 150903
+Precision@5:            1.0000
+Recall@5:               0.0137
+F1@5:                   0.0271
+Precision@10:           1.0000
+Recall@10:              0.0275
+F1@10:                  0.0535
+Precision@20:           1.0000
+Recall@20:              0.0549
+F1@20:                  0.1042
+Precision@50:           1.0000
+Recall@50:              0.1374
+F1@50:                  0.2415
+Precision@100:          1.0000
+Recall@100:             0.2747
+F1@100:                 0.4310
+
+Average Precision:          0.4767
+R-Precision:                0.4780
+nDCG:                       0.9109
+----------------------------------------
+Query ID: 150904
+Precision@5:            1.0000
+Recall@5:               0.0625
+F1@5:                   0.1176
+Precision@10:           0.8000
+Recall@10:              0.1000
+F1@10:                  0.1778
+Precision@20:           0.7000
+Recall@20:              0.1750
+F1@20:                  0.2800
+Precision@50:           0.4800
+Recall@50:              0.3000
+F1@50:                  0.3692
+Precision@100:          0.3900
+Recall@100:             0.4875
+F1@100:                 0.4333
+
+Average Precision:          0.3730
+R-Precision:                0.4875
+nDCG:                       0.6213
+----------------------------------------
+Mean average_precision:    0.4817
+Mean r_precision:       0.5338
+Mean ndcg:              0.7826
+Mean precision@5:       1.0000
+Mean recall@5:          0.0357
+Mean f1@5:              0.0685
+Mean precision@10:      0.9500
+Mean recall@10:         0.0652
+Mean f1@10:             0.1204
+Mean precision@20:      0.9000
+Mean recall@20:         0.1209
+Mean f1@20:             0.2079
+Mean precision@50:      0.7050
+Mean recall@50:         0.2211
+Mean f1@50:             0.3203
+Mean precision@100:     0.6475
+Mean recall@100:        0.3905
+Mean f1@100:            0.4560

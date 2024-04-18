@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>V Search Interface</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="search-container">
+        <h1 class="title">Vertical Search</h1>
+        <input type="text" id="query" class="search-box" placeholder="Enter search query" autocomplete="off">
+        <button onclick="search()" class="search-button">Start search</button>
+        <div id="autocomplete-results" class="autocomplete-results"></div>
+        <div id="results" class="results"></div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

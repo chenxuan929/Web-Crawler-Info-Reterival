@@ -1,3 +1,0 @@
-Vocabulary Size: 198568,
- Total CF: 22564721,
- Average length of Documents: 254.93791775904012

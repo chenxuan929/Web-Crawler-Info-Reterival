@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>V Search Interface</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="search-container">
+        <h1 class="title">Document Relevance Assessment</h1>
+        <input type="text" id="assessor-id" class="input-box" placeholder="Enter your Assessor ID">
+        <input type="text" id="query" class="search-box" placeholder="Enter search query" autocomplete="off">
+        <button onclick="search()" class="search-button">Start search</button>
+    </div>
+    <div id="results" class="results"></div>
+    <button onclick="submitAssessments()" class="submit-button">Submit Assessments</button>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+    <div id="results" class="results"></div>
+    <button onclick="prevPage()" class="page-button">Previous</button>
+    <button onclick="nextPage()" class="page-button">Next</button>
+
+
+</body>
+</html>

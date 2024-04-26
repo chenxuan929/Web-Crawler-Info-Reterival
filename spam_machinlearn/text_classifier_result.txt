@@ -1,0 +1,25 @@
+Results for text classifier
+
+
+Top 10 important features:
+mailing: -1.5012938740113257
+wrote: -1.4571078128669122
+unsubscribe: -1.1683741628050148
+perl: -0.9699124178243719
+ticket: -0.8734954513935276
+applied: -0.8603514459986001
+list: -0.8513926322068552
+cmquzxhllg0kvghligf0dgfjag1lbnqgy29udgfpbmvkihrozsbucm9qyw4uugfja2vkljez: -0.7852925139380983
+ihrocmvhdc4: -0.7852925139380983
+tm9ydg9uieludgvybmv0ifnly3vyaxr5ihjlbw92zwqgdghligf0dgfjag1lbnqgug9zdgnh: -0.7852925139380983
+Classification Report:
+              precision    recall  f1-score   support
+
+         ham       0.93      0.95      0.94       453
+        spam       0.99      0.98      0.98      1547
+
+    accuracy                           0.97      2000
+   macro avg       0.96      0.97      0.96      2000
+weighted avg       0.97      0.97      0.97      2000
+
+ROC AUC Score: 0.9867806521487863

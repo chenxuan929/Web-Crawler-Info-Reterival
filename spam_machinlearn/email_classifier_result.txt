@@ -1,0 +1,31 @@
+Results for email spam
+
+Results for Linear Regression:
+              precision    recall  f1-score   support
+
+           0       0.74      0.16      0.26       397
+           1       0.83      0.99      0.90      1603
+
+    accuracy                           0.82      2000
+   macro avg       0.78      0.57      0.58      2000
+weighted avg       0.81      0.82      0.77      2000
+
+Results for Naive Bayes:
+              precision    recall  f1-score   support
+
+           0       0.57      0.15      0.24       397
+           1       0.82      0.97      0.89      1603
+
+    accuracy                           0.81      2000
+   macro avg       0.70      0.56      0.57      2000
+weighted avg       0.77      0.81      0.76      2000
+
+Results for Decision Tree:
+              precision    recall  f1-score   support
+
+           0       0.62      0.34      0.44       397
+           1       0.85      0.95      0.90      1603
+
+    accuracy                           0.83      2000
+   macro avg       0.74      0.64      0.67      2000
+weighted avg       0.81      0.83      0.81      2000
